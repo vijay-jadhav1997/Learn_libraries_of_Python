@@ -11,10 +11,19 @@
 
 - Included with Python by default
 
-1. csv:
+1. **_csv_**:
+
    > Resources:
+
    1. [CSV Module in Python (basics + advance)](https://www.linkedin.com/pulse/csv-module-python-manish-v--ojyhe)
    2. [Python’s documentation of CSV](https://docs.python.org/3/library/csv.html)
+
+2. **_math_**: https://realpython.com/python-math-module/#getting-to-know-the-python-math-module
+
+   > Resources:
+
+   1. [The Python math Module: Everything You Need to Know](https://realpython.com/python-math-module/#getting-to-know-the-python-math-module)
+   2. [Python’s documentation of math](https://docs.python.org/3/library/math.html)
 
 ---
 
